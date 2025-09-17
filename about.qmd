@@ -1,0 +1,62 @@
+---
+title: "about me"
+image: assets/img/profile.jpg
+about:
+  template: solana
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/hareeshkolluru
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/yourprofile
+    - icon: envelope
+      text: Email
+      href: mailto:your.email@domain.com
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/yourhandle
+---
+
+## About Me
+
+Write your personal story here. This is where you can share:
+
+- Your background and journey
+- What drives and motivates you
+- Your interests outside of work
+- Your philosophy or approach to life and work
+- Any personal anecdotes that help people connect with you
+
+## Education
+
+**Degree Name**  
+*University Name*, Year  
+Relevant coursework, achievements, or experiences during your studies.
+
+**Another Degree**  
+*Institution Name*, Year  
+Brief description of your educational background.
+
+## Interests
+
+When I'm not working, you can find me:
+
+- **Interest 1:** Description of your hobby or interest
+- **Interest 2:** Another activity you enjoy
+- **Interest 3:** Something that brings you joy or fulfillment
+
+## Fun Facts
+
+- Share something unique or interesting about yourself
+- A quirky hobby or skill
+- An unusual experience or achievement
+- Anything that helps people remember you
+
+## Contact
+
+Feel free to reach out if you'd like to connect, collaborate, or just have a conversation. I'm always interested in meeting new people and exploring new opportunities.
+
+The best way to reach me is via [email](mailto:your.email@domain.com) or through any of the social links above.

@@ -1,0 +1,16 @@
+---
+title: "journal"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+page-layout: full
+---
+
+# Journal
+
+Welcome to my journal where I share thoughts, insights, and experiences from my work and life.
+
+---

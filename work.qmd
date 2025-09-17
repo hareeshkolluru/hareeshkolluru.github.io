@@ -1,0 +1,80 @@
+---
+title: "work"
+page-layout: full
+---
+
+# My Work
+
+This page showcases my professional projects, research, and contributions.
+
+## Current Projects
+
+::: {.project-item}
+### Project Name
+**Duration:** 2024 - Present  
+**Role:** Your Role  
+**Technologies:** List technologies used
+
+Brief description of what the project involves, your contributions, and any notable outcomes or ongoing development.
+
+[GitHub](https://github.com/link) | [Demo](https://demo-link.com) | [Documentation](https://docs-link.com)
+:::
+
+::: {.project-item}
+### Another Project
+**Duration:** 2023 - 2024  
+**Role:** Your Role  
+**Technologies:** List technologies used
+
+Description of this project, highlighting key achievements and learning outcomes.
+
+[GitHub](https://github.com/link) | [Live Site](https://live-link.com)
+:::
+
+## Publications & Research
+
+::: {.publication-item}
+**Title of Paper/Research**  
+*Authors, Conference/Journal Name*, Year  
+Brief description of the research and its contributions.
+[PDF](link-to-pdf) | [DOI](doi-link)
+:::
+
+::: {.publication-item}
+**Another Publication**  
+*Authors, Venue*, Year  
+Summary of this work and its impact.
+[PDF](link-to-pdf) | [Code](github-link)
+:::
+
+## Professional Experience
+
+::: {.experience-item}
+### Job Title
+**Company Name** | Location | Date Range
+
+- Key responsibility or achievement
+- Another important contribution
+- Notable project or outcome
+:::
+
+::: {.experience-item}
+### Previous Role
+**Previous Company** | Location | Date Range
+
+- Highlight significant accomplishments
+- Technical skills developed
+- Impact on organization or projects
+:::
+
+## Skills & Technologies
+
+::: {.skills-section}
+**Programming Languages:** Python, JavaScript, R, etc.
+
+**Frameworks & Tools:** React, Django, TensorFlow, etc.
+
+**Databases:** PostgreSQL, MongoDB, etc.
+
+**Cloud & DevOps:** AWS, Docker, Kubernetes, etc.
+:::
