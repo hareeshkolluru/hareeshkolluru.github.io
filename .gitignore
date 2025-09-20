@@ -48,3 +48,4 @@ ehthumbs.db
 # Logs
 logs
 *.log
+**/*.quarto_ipynb
