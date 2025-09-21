@@ -1,16 +1,14 @@
 ---
-title: "journal"
+title: "Archive"
 listing:
   contents: posts
   sort: "date desc"
   type: default
   categories: true
   feed: true
-page-layout: full
+page-layout: article
 ---
 
-# Journal
+# Archive
 
-Welcome to my journal where I share thoughts, insights, and experiences from my work and life.
-
----
+All posts organized chronologically.

@@ -1,62 +1,31 @@
 ---
-title: "about me"
-image: assets/img/profile.jpg
-about:
-  template: solana
-  image-width: 15em
-  image-shape: round
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/hareeshkolluru
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/yourprofile
-    - icon: envelope
-      text: Email
-      href: mailto:your.email@domain.com
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/yourhandle
+title: "About"
+page-layout: article
 ---
 
-## About Me
+# About Me
 
-Write your personal story here. This is where you can share:
+I'm Hareesh Kolluru, a software engineer passionate about building meaningful digital experiences and exploring the intersection of technology and human creativity.
 
-- Your background and journey
-- What drives and motivates you
-- Your interests outside of work
-- Your philosophy or approach to life and work
-- Any personal anecdotes that help people connect with you
+## Background
 
-## Education
-
-**Degree Name**  
-*University Name*, Year  
-Relevant coursework, achievements, or experiences during your studies.
-
-**Another Degree**  
-*Institution Name*, Year  
-Brief description of your educational background.
+- Software developer with experience in web technologies, machine learning, and system design
+- Passionate about creating clean, efficient, and user-focused solutions
+- Always learning and exploring new technologies and methodologies
 
 ## Interests
 
-When I'm not working, you can find me:
+When I'm not coding, you can find me:
 
-- **Interest 1:** Description of your hobby or interest
-- **Interest 2:** Another activity you enjoy
-- **Interest 3:** Something that brings you joy or fulfillment
+- Reading about technology trends and software architecture
+- Exploring machine learning and AI applications
+- Contributing to open source projects
+- Writing about my learning journey
 
-## Fun Facts
+## Get in Touch
 
-- Share something unique or interesting about yourself
-- A quirky hobby or skill
-- An unusual experience or achievement
-- Anything that helps people remember you
+Feel free to reach out if you'd like to discuss technology, collaborate on projects, or just have an interesting conversation.
 
-## Contact
-
-Feel free to reach out if you'd like to connect, collaborate, or just have a conversation. I'm always interested in meeting new people and exploring new opportunities.
-
-The best way to reach me is via [email](mailto:your.email@domain.com) or through any of the social links above.
+- **Email**: [your.email@domain.com](mailto:your.email@domain.com)
+- **GitHub**: [github.com/hareeshkolluru](https://github.com/hareeshkolluru)
+- **LinkedIn**: [linkedin.com/in/hareeshkolluru](https://linkedin.com/in/hareeshkolluru)

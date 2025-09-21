@@ -1,0 +1,28 @@
+---
+title: "Contact"
+page-layout: article
+---
+
+# Contact
+
+I'm always open to interesting conversations about technology, potential collaborations, or new opportunities.
+
+## Get in Touch
+
+**Email**: [your.email@domain.com](mailto:your.email@domain.com)
+
+**Social**:
+- [GitHub](https://github.com/hareeshkolluru)
+- [LinkedIn](https://linkedin.com/in/hareeshkolluru)
+- [Twitter](https://twitter.com/yourhandle)
+
+## What I'm Interested In
+
+- Technical discussions about software architecture and engineering
+- Collaboration opportunities on open source projects
+- Speaking engagements and writing opportunities
+- Career opportunities in technology
+
+## Response Time
+
+I typically respond to emails within 24-48 hours. If you haven't heard back, please feel free to follow up.

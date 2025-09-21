@@ -1,35 +1,12 @@
 ---
-title: "Welcome to My Journal"
-description: "First post on my new blog"
-author: "Hareesh Kolluru"
-date: "2025-01-15"
-categories: [welcome, personal]
-image: "welcome.jpg"
+title: "Hareesh Kolluru"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: false
+  feed: true
+page-layout: article
 ---
 
-Welcome to my new blog! This is my first post where I'll be sharing thoughts, experiences, and insights from my work and life.
-
-## What to Expect
-
-In this journal, you can expect to find:
-
-- Technical insights and learnings from my projects
-- Reflections on industry trends and developments
-- Personal experiences and growth stories
-- Tutorials and how-to guides
-- Book reviews and recommendations
-
-## Why I'm Blogging
-
-I believe that sharing knowledge and experiences helps both the writer and the reader grow. Through this blog, I hope to:
-
-1. **Document my journey** - Keep track of my learning and progress
-2. **Share knowledge** - Help others who might face similar challenges
-3. **Connect with community** - Engage with like-minded individuals
-4. **Improve communication** - Practice articulating complex ideas clearly
-
-## Looking Forward
-
-I'm excited to start this journey of regular writing and sharing. If you have any topics you'd like me to cover or questions you'd like me to address, feel free to reach out through any of the contact methods on my [about page](../../about.qmd).
-
-Thank you for reading, and welcome to my corner of the internet!
+Welcome to my personal blog where I share thoughts, insights, and experiences from my work in technology and software development.

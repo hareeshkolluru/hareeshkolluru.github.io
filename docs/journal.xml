@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Hareesh Kolluru</title>
+<link>https://hareeshkolluru.github.io/journal.html</link>
+<atom:link href="https://hareeshkolluru.github.io/journal.xml" rel="self" type="application/rss+xml"/>
+<description>Personal blog and portfolio</description>
+<generator>quarto-1.8.24</generator>
+<lastBuildDate>Wed, 15 Jan 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to My Journal</title>
+  <dc:creator>Hareesh Kolluru</dc:creator>
+  <link>https://hareeshkolluru.github.io/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Welcome to my new blog! This is my first post where I’ll be sharing thoughts, experiences, and insights from my work and life.</p>
+<section id="what-to-expect" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-expect">What to Expect</h2>
+<p>In this journal, you can expect to find:</p>
+<ul>
+<li>Technical insights and learnings from my projects</li>
+<li>Reflections on industry trends and developments</li>
+<li>Personal experiences and growth stories</li>
+<li>Tutorials and how-to guides</li>
+<li>Book reviews and recommendations</li>
+</ul>
+</section>
+<section id="why-im-blogging" class="level2">
+<h2 class="anchored" data-anchor-id="why-im-blogging">Why I’m Blogging</h2>
+<p>I believe that sharing knowledge and experiences helps both the writer and the reader grow. Through this blog, I hope to:</p>
+<ol type="1">
+<li><strong>Document my journey</strong> - Keep track of my learning and progress</li>
+<li><strong>Share knowledge</strong> - Help others who might face similar challenges</li>
+<li><strong>Connect with community</strong> - Engage with like-minded individuals</li>
+<li><strong>Improve communication</strong> - Practice articulating complex ideas clearly</li>
+</ol>
+</section>
+<section id="looking-forward" class="level2">
+<h2 class="anchored" data-anchor-id="looking-forward">Looking Forward</h2>
+<p>I’m excited to start this journey of regular writing and sharing. If you have any topics you’d like me to cover or questions you’d like me to address, feel free to reach out through any of the contact methods on my <a href="../../about.html">about page</a>.</p>
+<p>Thank you for reading, and welcome to my corner of the internet!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>welcome</category>
+  <category>personal</category>
+  <guid>https://hareeshkolluru.github.io/posts/welcome/</guid>
+  <pubDate>Wed, 15 Jan 2025 05:00:00 GMT</pubDate>
+  <media:content url="https://hareeshkolluru.github.io/posts/welcome/welcome.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
