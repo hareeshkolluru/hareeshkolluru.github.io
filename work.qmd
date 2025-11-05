@@ -1,0 +1,27 @@
+---
+title: "Work"
+---
+
+# Projects & Experience
+
+## Current Projects
+
+### Project 1
+Description of your project...
+
+### Project 2
+Description of your project...
+
+## Experience
+
+### Role at Company
+*Dates*
+
+- Responsibility 1
+- Responsibility 2
+
+## Skills
+
+- Skill area 1
+- Skill area 2
+- Skill area 3

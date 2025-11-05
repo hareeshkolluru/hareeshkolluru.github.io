@@ -1,0 +1,127 @@
+/* Quarto-inspired styles */
+
+/* Base typography */
+body {
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Navbar styling - Force to match body background */
+/* Using very high specificity to override Quarto theme */
+
+body .navbar,
+body .navbar-expand-lg,
+body nav.navbar,
+body header .navbar,
+body .quarto-navbar,
+body #quarto-header .navbar,
+body #quarto-header > nav {
+  background-color: transparent !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+/* More specific overrides for light mode */
+html[data-bs-theme="light"] body .navbar,
+html[data-bs-theme="light"] body .navbar-expand-lg,
+html[data-bs-theme="light"] body nav.navbar,
+html[data-bs-theme="light"] body header .navbar,
+html[data-bs-theme="light"] body .quarto-navbar,
+html[data-bs-theme="light"] body #quarto-header .navbar,
+html[data-bs-theme="light"] body #quarto-header > nav,
+html[data-bs-theme="light"] .navbar.bg-primary,
+html[data-bs-theme="light"] .navbar[class*="bg-"],
+html[data-bs-theme="light"] .navbar.navbar-light {
+  background-color: transparent !important;
+  background: transparent !important;
+  border-bottom: 1px solid #dee2e6 !important;
+}
+
+/* More specific overrides for dark mode */
+html[data-bs-theme="dark"] body .navbar,
+html[data-bs-theme="dark"] body .navbar-expand-lg,
+html[data-bs-theme="dark"] body nav.navbar,
+html[data-bs-theme="dark"] body header .navbar,
+html[data-bs-theme="dark"] body .quarto-navbar,
+html[data-bs-theme="dark"] body #quarto-header .navbar,
+html[data-bs-theme="dark"] body #quarto-header > nav {
+  background-color: transparent !important;
+  background: transparent !important;
+  border-bottom: 1px solid #444 !important;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  font-size: 1.3rem;
+  text-transform: none !important;
+}
+
+/* Navigation link styling */
+.navbar-nav .nav-link {
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  transition: opacity 0.2s ease;
+  text-transform: none !important;
+}
+
+/* Force same color for all text in light mode */
+html[data-bs-theme="light"] .navbar-nav .nav-link,
+html[data-bs-theme="light"] .navbar-brand,
+html[data-bs-theme="light"] .navbar-text,
+html[data-bs-theme="light"] .navbar .nav-link,
+html[data-bs-theme="light"] a.nav-link,
+html[data-bs-theme="light"] .nav-item .nav-link {
+  color: #212529 !important;
+  text-transform: none !important;
+}
+
+html[data-bs-theme="light"] body,
+html[data-bs-theme="light"] p,
+html[data-bs-theme="light"] h1,
+html[data-bs-theme="light"] h2,
+html[data-bs-theme="light"] h3,
+html[data-bs-theme="light"] h4,
+html[data-bs-theme="light"] h5,
+html[data-bs-theme="light"] h6,
+html[data-bs-theme="light"] div,
+html[data-bs-theme="light"] span {
+  color: #212529 !important;
+}
+
+.navbar-nav .nav-link:hover {
+  opacity: 0.8;
+}
+
+.navbar-nav .nav-link.active {
+  text-decoration: underline;
+}
+
+/* Code blocks */
+pre {
+  border-radius: 0.375rem;
+  padding: 1rem;
+}
+
+code {
+  font-size: 0.875em;
+}
+
+/* Responsive adjustments */
+@media (max-width: 991.98px) {
+  .navbar-brand {
+    font-size: 1.1rem;
+  }
+
+  .navbar-nav .nav-link {
+    padding: 0.5rem 0.75rem;
+  }
+}

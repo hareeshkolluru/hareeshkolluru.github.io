@@ -1,0 +1,17 @@
+---
+title: "Welcome"
+---
+
+# Hareesh Kolluru
+
+Welcome to my personal website. Here you'll find information about my work and occasional journal entries.
+
+## About Me
+
+[Add your bio here]
+
+## Get in Touch
+
+- GitHub: [Your GitHub](https://github.com/yourusername)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: your.email@example.com

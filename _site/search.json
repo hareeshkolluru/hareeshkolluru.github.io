@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "journal.html",
+    "href": "journal.html",
+    "title": "Journal",
+    "section": "",
+    "text": "Date\nYour journal entry content here…\n\n\n\n\nDate\nMore content…"
+  },
+  {
+    "objectID": "journal.html#section",
+    "href": "journal.html#section",
+    "title": "Journal",
+    "section": "",
+    "text": "Date\nYour journal entry content here…\n\n\n\n\nDate\nMore content…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to my personal website. Here you’ll find information about my work and occasional journal entries.\n\n\n[Add your bio here]\n\n\n\n\nGitHub: Your GitHub\nLinkedIn: Your LinkedIn\nEmail: your.email@example.com"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome",
+    "section": "",
+    "text": "[Add your bio here]"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Welcome",
+    "section": "",
+    "text": "GitHub: Your GitHub\nLinkedIn: Your LinkedIn\nEmail: your.email@example.com"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Work",
+    "section": "",
+    "text": "Description of your project…\n\n\n\nDescription of your project…\n\n\n\n\n\n\nDates\n\nResponsibility 1\nResponsibility 2\n\n\n\n\n\n\nSkill area 1\nSkill area 2\nSkill area 3"
+  },
+  {
+    "objectID": "work.html#current-projects",
+    "href": "work.html#current-projects",
+    "title": "Work",
+    "section": "",
+    "text": "Description of your project…\n\n\n\nDescription of your project…"
+  },
+  {
+    "objectID": "work.html#experience",
+    "href": "work.html#experience",
+    "title": "Work",
+    "section": "",
+    "text": "Dates\n\nResponsibility 1\nResponsibility 2"
+  },
+  {
+    "objectID": "work.html#skills",
+    "href": "work.html#skills",
+    "title": "Work",
+    "section": "",
+    "text": "Skill area 1\nSkill area 2\nSkill area 3"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

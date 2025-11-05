@@ -1,0 +1,19 @@
+---
+title: "Journal"
+---
+
+# Journal Entries
+
+## 2025
+
+### Entry Title
+*Date*
+
+Your journal entry content here...
+
+---
+
+### Another Entry
+*Date*
+
+More content...
