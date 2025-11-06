@@ -1,17 +1,33 @@
 ---
-title: "Welcome"
+title: ""
 ---
-
-# Hareesh Kolluru
-
-Welcome to my personal website. Here you'll find information about my work and occasional journal entries.
 
 ## About Me
 
-[Add your bio here]
+Hi! I'm Hareesh, and I spend my days trying to understand intelligence—both the artificial kind I'm building and the natural kind my very young kids demonstrate daily (which is often more impressive).
 
-## Get in Touch
+I'm an AI researcher who got here through a computer science education, a love affair with mathematics, and way too many late-night philosophy rabbit holes. These days I'm working on making machines smarter while trying to figure out what that even means.
 
-- GitHub: [Your GitHub](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+### What keeps me curious
+
+Here's the thing: I'm living through this incredible moment where I'm working at the bleeding edge of AI development while simultaneously watching my very young kids start to develop language, speak sentences, understand and reason. It's fascinating and humbling. Every time I think we're close to replicating human intelligence, one of my kids does something that reminds me—we're not there yet. Not even close.
+
+Growing up in India, I witnessed how fragile life can be. I've always been fascinated by the idea of leaving memories behind after death—the possibility that my kids could somehow interact with me, or with everything I've learned throughout my life, even after I'm gone. There's something beautiful about consciousness persisting through the stories we tell and the knowledge we share.
+
+I read a lot of ancient Indian philosophy, study optimization algorithms, and wonder if consciousness is computable. I'm probably the only person who gets equally excited about a clean mathematical proof and a well-designed typography system.
+
+### The big questions
+
+How do we build AI that's not just intelligent but wise? What can 2000-year-old ideas teach us about 21st-century technology? Why does mathematics work so unreasonably well at describing reality? And most importantly—how do we make sure the future we're building is one we'd actually want to live in?
+
+I don't have answers, but I love thinking about the questions.
+
+### Why this blog exists
+
+I write about the intersection of technology, philosophy, and being human. Sometimes it's technical deep-dives, sometimes it's random thoughts about consciousness, sometimes it's just me trying to make sense of why ancient Indian ideas still matter in the age of transformers.
+
+Writing helps me clarify my own thoughts—there's something about putting ideas into words that forces you to really think them through.
+
+Also, I'm convinced that good typography makes everything better, including thinking.
+
+Coffee chats about AI, consciousness, or why history rhymes are always welcome. Drop me a line if you're pondering similar questions.

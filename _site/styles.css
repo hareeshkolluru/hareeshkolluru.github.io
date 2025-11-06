@@ -1,12 +1,18 @@
 /* Quarto-inspired styles */
 
+/* Import EB Garamond font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
 /* Base typography */
 body {
+  font-family: "EB Garamond", "Helvetica Neue", "Segoe UI", sans-serif;
   font-weight: 400;
+  font-size: 18px;
   line-height: 1.6;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: "EB Garamond", "Helvetica Neue", "Segoe UI", sans-serif;
   font-weight: 600;
   margin-top: 1.5rem;
   margin-bottom: 0.75rem;
@@ -60,14 +66,16 @@ html[data-bs-theme="dark"] body #quarto-header > nav {
 }
 
 .navbar-brand {
+  font-family: "EB Garamond", "Helvetica Neue", "Segoe UI", sans-serif;
   font-weight: 600;
-  font-size: 1.3rem;
+  font-size: 1.8rem;
   text-transform: none !important;
 }
 
 /* Navigation link styling */
 .navbar-nav .nav-link {
   font-weight: 500;
+  font-size: 1.2rem;
   padding: 0.5rem 1rem;
   transition: opacity 0.2s ease;
   text-transform: none !important;
